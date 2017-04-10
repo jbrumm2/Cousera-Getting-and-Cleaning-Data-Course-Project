@@ -7,7 +7,7 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-** Important note: ** in the R script `run_analysis.R` line 11 sets the working directory to the location where the data set for my project was unzipped. This line must be edited for each user to set to the working directory to the location where the user unzipped the UCI HAR Dataset.
+**Important note:** in the R script `run_analysis.R` line 11 sets the working directory to the location where the data set for my project was unzipped. This line must be edited for each user to set to the working directory to the location where the user unzipped the UCI HAR Dataset.
 
 The R script called `run_analysis.R` does the following:
 
