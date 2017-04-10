@@ -21,9 +21,9 @@ This code book summarizes the data fields found in `tidy.txt`.
 `tGravityAccStdY`
 `tGravityAccStdZ`
 `tBodyAccJerkMeanX`
-`tBodyAccJerkMeanY`
-`tBodyAccJerkMeanZ`
-`tBodyAccJerkStdX`
+tBodyAccJerkMeanY
+tBodyAccJerkMeanZ
+tBodyAccJerkStdX
 tBodyAccJerkStdY
 tBodyAccJerkStdZ
 tBodyGyroMeanX
